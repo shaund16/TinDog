@@ -1,2 +1,1 @@
-# TinDog
-Another Bootcamp Website 
+TinDog Starting Files
